@@ -13,10 +13,6 @@ set wrap
 " Set encoding
 set encoding=utf-8
 
-colorscheme gruvbox
-
-set termguicolors
-
 " Vim Plug Config
 call plug#begin('~/vimfiles/plugged')
 
