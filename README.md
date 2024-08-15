@@ -4,3 +4,6 @@ This is where I will be storing my config files and dotfiles for my development,
 
 ## .vimrc
 The first file in this config will be the .vimrc file. This is the file that vim will be reading from every time it starts so you can add the pre-configs you would like for your terminal.
+
+## Microsoft.PowerShell_profile.ps1   
+The configuration foe the powershell and oh-my-posh
